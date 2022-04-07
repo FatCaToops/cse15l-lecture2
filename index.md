@@ -10,4 +10,14 @@ How's it going
 
 [Link to CSE 15L webpage](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/syllabus)
 
-![picture]()
+![picture](老虎.jpg)
+
+this is a list of unordered things
+* one
+* two
+* three
+
+this is a list of ordered things
+1. one
+2. two
+3. three
