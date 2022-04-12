@@ -21,3 +21,9 @@ this is a list of ordered things
 1. one
 2. two
 3. three
+
+Git is amazing!
+Git is amazing!
+
+add one thing
+
